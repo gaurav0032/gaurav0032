@@ -21,5 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gaurav0032&icon=6&color=0)](https://visitcount.itsvg.in)
 
-**Note:** GitHub stats and streaks may take up to 24-48 hours to update after new commits due to caching by the GitHub API and the stats services. If your recent commits aren't reflected immediately, please check back later.
 
